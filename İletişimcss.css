@@ -1,0 +1,31 @@
+.navbar{
+    background-image: linear-gradient(180deg, rgb(211, 96, 96), rgb(205, 205, 205));
+}
+
+.maildiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 40px;
+}
+
+
+body{
+    background-image: url(img/bg.jpg);
+    background-image: url('img/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: auto;
+    min-height: 100vh;
+    padding-bottom: 50px;
+}
+
+.mesaj{
+    font-size: 19px;
+}
+
+.githuub{
+    font-size: 24px;
+}

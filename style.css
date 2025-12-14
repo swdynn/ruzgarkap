@@ -1,0 +1,226 @@
+.body{
+    scrollbar-width: 10px;
+    background-color: rgb(102, 102, 102);
+    
+}
+
+.margin{
+    background-color: rgb(102, 102, 102);
+}
+
+.mesaj{
+    font-size: 19px;
+}
+
+.githuub{
+    font-size: 24px;
+}
+
+.Size{
+    width: 40px;
+    height: auto;
+}
+
+.tubtak{
+    width: 20px;
+    height: auto;
+}
+
+
+.git{
+    width: 30px;
+    height: auto;
+}
+
+
+
+.tubtako{
+    width: 100px;
+    margin-right: px;
+
+}
+
+.edev{
+    width: 100px;
+    margin-right: px;
+    border-radius: 50px;
+}
+
+.eokulkorkutucu{
+    width: 100px;
+    margin-left: px;
+    border-radius: 50px
+}
+
+.nab{
+    width: 100px;
+    border-radius: 50px
+}
+
+.Rtuk{
+    width: 100px;
+    border-radius: 50px;
+
+}
+
+.genclik{
+    width: 100px;
+
+    border-radius: 50px;
+}
+
+.btk{
+    width: 100px;
+
+    border-radius: 50px;
+}
+
+.trendyol{
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 50px
+
+}
+
+.Hepsi{
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 50px
+
+}
+
+.media{
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 50px
+
+}
+
+.amz{
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 50px
+
+}
+
+.tek{
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 50px
+
+}
+
+.ek{
+    
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 50px
+}
+
+.sikayet{
+    
+    width: 100px;
+    margin-left: 15px;
+    border-radius: 50px
+}
+
+
+
+.karnaval{
+    
+    width: 100px;
+    margin-left: 5px;
+    border-radius: 50px
+}
+
+.trtr{
+    
+    width: 100px;
+    margin-left: 5px;
+    border-radius: 50px
+}
+
+.pwr{
+    
+    width: 100px;
+    margin-left: 5px;
+    border-radius: 50px
+}
+
+
+
+
+
+/* .head{
+    background-color: transparent;
+} */
+
+.navbar{
+    background-image: linear-gradient(180deg, rgb(211, 96, 96), rgb(205, 205, 205));
+}
+
+/* .foot{
+    background-image: linear-gradient(180deg, rgb(205, 205, 205), rgb(102, 102, 102));
+    z-index: 9999;
+
+} */
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: url('img/bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+main.bggg {
+  flex: 1 0 auto;
+  padding: 3rem 1rem;
+  background: transparent;
+}
+
+
+footer.foot {
+  flex-shrink: 0;
+  background: #ffffff;
+  width: 100%;
+  padding: 1rem 0;
+  box-shadow: 0 -2px 6px rgba(0,0,0,0.06);
+  z-index: 10;
+}
+
+
+.foot .container p {
+  margin: 0;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+
+@media (max-width: 576px) {
+  main.bggg {
+    padding: 2rem .5rem;
+  }
+  .foot .container p {
+    gap: .5rem;
+    font-size: .95rem;
+  }
+}
+
+footer.foot{
+  background-image: linear-gradient(rgb(202, 202, 202), rgb(86, 86, 86));
+}
